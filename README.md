@@ -1,7 +1,11 @@
 ### Hi there 👋 I'm Swarna Roy
 # 💫 About Me:
 I love solving logical puzzles.
-Testing is a kind of solving a logical puzzle.
+
+Testing is a kind of solving a logical puzzle. 
+
+I proudly say that as a Software Tester.
+
 I’m currently working on Software Quality Assurance
 
 
