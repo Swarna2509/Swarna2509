@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Swarna Roy
 # 💫 About Me:
-I love solving logical puzzles.Testing is a kind of solving a logical puzzle. I’m currently working on Software Quality Assurance
+I love solving logical puzzles.
+Testing is a kind of solving a logical puzzle.
+I’m currently working on Software Quality Assurance
 
 
 ## 🌐 Socials:
